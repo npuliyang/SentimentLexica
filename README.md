@@ -26,9 +26,13 @@ The datasets for sentiment or emotion analysis. They include:
 
 ### Sentiment140, a lexicon of 62,466 words developed in 2009;
 
-### SentiStrength and SentiWordNet, two lexica created in 2010 consisting of 2,546 and 23,089 words, respectively;
+> Alec Go, Richa Bhayani, and Lei Huang. 2009. Twitter sentiment classification using distant supervision. CS224N project report, Stanford 1, 12 (2009).
+
+### SentiStrength, a lexicon created in 2010 consisting of 2,546 words;
 
 > Mike Thelwall, Kevan Buckley, Georgios Paltoglou, Di Cai, and Arvid Kappas. 2010. Sentiment strength detection in short informal text. Journal of the American society for information science and technology 61, 12 (2010), 2544–2558.
+
+### SentiWordNet, a lexicon created in 2010 consisting of 23,089 words;
 
 > Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani. 2010. SentiWordNet 3.0: an enhanced lexical resource for sentiment analysis and opinion mining. In LREC. 2200–2204.
 
@@ -44,9 +48,11 @@ The datasets for sentiment or emotion analysis. They include:
 
 > Saif M Mohammad and Peter D Turney. 2013. Crowdsourcing a word–emotion association lexicon. Computational Intelligence 29, 3 (2013), 436–465.
 
-### NRC HS Lexicon and VADER two lexica developed in 2014 containing 54,128 and 7,503 words, respectively; 
+### NRC HS Lexicon, a lexicon developed in 2014 containing 54,128  words; 
 
 > Xiaodan Zhu, Svetlana Kiritchenko, and Saif Mohammad. 2014. NRC-canada2014: Recent improvements in the sentiment analysis of tweets. In SemEval. 443–447.
+
+### VADER, a lexicon developed in 2014 containing 7,503 words; 
 
 > Clayton J Hutto and Eric GIlbert. 2014. VADER: A parsimonious rule-based model for sentiment analysis of social media text. In ICWSM. 216–225.
 
